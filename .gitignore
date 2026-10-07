@@ -1,0 +1,7 @@
+# Ignore backup folder
+images_backup/
+
+# Node modules / temp
+node_modules/
+.DS_Store
+Thumbs.db
